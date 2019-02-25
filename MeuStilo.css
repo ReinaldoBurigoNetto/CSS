@@ -1,0 +1,51 @@
+﻿h1{
+    font-size: 24px;
+}
+h2{
+    font-size: 20px;
+}
+h3{
+    font-size: 16px;
+}
+h4{
+    font-size: 24px;
+}
+h1, h2, h3{
+    columns: #333333;
+}
+a{
+    color: #333333;
+    font -size: 14px;
+
+    line-height: 1.8em;s
+}
+
+ul li a {
+    list-style: none;
+    font-family: Arial,sans-serif
+    font: size 14px;
+    line - height: 1.8em; 
+}
+.menu{
+    margin: auto;
+    width: 60%;
+}
+.content{
+    border: 2px solid #13ff00;
+    border-left: none;
+    border-right: none;
+}
+.article-date{
+    font-style: 12px;
+    font-size: italic;
+}
+.contacts{
+    padding: 0;
+}
+.contacts li{
+    display: inline;
+    margin-right: 5px;
+}
+.contacts li a {
+    color: #333333;
+}
